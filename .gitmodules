@@ -1,3 +1,4 @@
 [submodule "Arduino/libraries/FastLED"]
 	path = Arduino/libraries/FastLED
 	url = https://github.com/FastLED/FastLED.git
+	# Станом на коміт https://github.com/FastLED/FastLED/commit/95d0a5582b2052729f345719e65edf7a4b9e7098
