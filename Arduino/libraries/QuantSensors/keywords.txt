@@ -1,0 +1,6 @@
+QuantSensors	KEYWORD1
+QuantLine	KEYWORD1
+readLineSensor	KEYWORD2
+readLineSensorBool	KEYWORD2
+begin	KEYWORD2
+setLevel	KEYWORD2
